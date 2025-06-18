@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SorayaGomesS/dwba4-semana-11-PT3032515/static/css/main.2158c3e0.css",
-    "main.js": "/SorayaGomesS/dwba4-semana-11-PT3032515/static/js/main.9a7e3b81.js",
-    "static/js/453.580abcb3.chunk.js": "/SorayaGomesS/dwba4-semana-11-PT3032515/static/js/453.580abcb3.chunk.js",
-    "index.html": "/SorayaGomesS/dwba4-semana-11-PT3032515/index.html",
-    "main.2158c3e0.css.map": "/SorayaGomesS/dwba4-semana-11-PT3032515/static/css/main.2158c3e0.css.map",
-    "main.9a7e3b81.js.map": "/SorayaGomesS/dwba4-semana-11-PT3032515/static/js/main.9a7e3b81.js.map",
-    "453.580abcb3.chunk.js.map": "/SorayaGomesS/dwba4-semana-11-PT3032515/static/js/453.580abcb3.chunk.js.map"
+    "main.css": "/dwba4-semana-11-PT3032515/static/css/main.2158c3e0.css",
+    "main.js": "/dwba4-semana-11-PT3032515/static/js/main.4cc2ab15.js",
+    "static/js/453.580abcb3.chunk.js": "/dwba4-semana-11-PT3032515/static/js/453.580abcb3.chunk.js",
+    "index.html": "/dwba4-semana-11-PT3032515/index.html",
+    "main.2158c3e0.css.map": "/dwba4-semana-11-PT3032515/static/css/main.2158c3e0.css.map",
+    "main.4cc2ab15.js.map": "/dwba4-semana-11-PT3032515/static/js/main.4cc2ab15.js.map",
+    "453.580abcb3.chunk.js.map": "/dwba4-semana-11-PT3032515/static/js/453.580abcb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2158c3e0.css",
-    "static/js/main.9a7e3b81.js"
+    "static/js/main.4cc2ab15.js"
   ]
 }
